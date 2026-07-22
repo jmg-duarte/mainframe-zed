@@ -83,11 +83,11 @@
         "editor.document_highlight.write_background": "#e8d8b840",
         "editor.document_highlight.bracket_background": "#d0cdc460",
 
-        "scrollbar.thumb.background": "#c8c6c280",
-        "scrollbar.thumb.hover_background": "#c8c6c2bb",
+        "scrollbar.track.border": "#e0ddd780",
+        "scrollbar.track.background": "#e0ddd760",
+        "scrollbar.thumb.background": "#c8c6c260",
+        "scrollbar.thumb.hover_background": "#c8c6c280",
         "scrollbar.thumb.border": "#00000000",
-        "scrollbar.track.background": "#e0ddd7",
-        "scrollbar.track.border": "#d1cfc9",
 
         "link_text.hover": "#0066cc",
         "selection.background": "#0054a633",
